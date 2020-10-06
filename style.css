@@ -1,0 +1,121 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+#blocprincipale{
+    width: 100%;
+    height: 100px;
+   
+
+}
+
+
+#ligne1{
+    display: flex;
+}
+
+
+#vert{ 
+    width:80%; 
+    height:40px; 
+     
+    background-color:green;
+    
+   
+}
+
+#blue{ 
+    width:20%; 
+    height:40px; 
+    
+    
+    background-color:blue;
+     
+}
+
+#ligne2{
+    display: flex;
+}
+
+#rouge{ 
+    width:30%; 
+    height:80px; 
+    
+    
+    background-color:red;
+     
+}
+
+
+#multi{ 
+    width:70%; 
+    height:80px; 
+    
+    
+   
+     
+}
+
+#org{
+    display: flex;
+}
+
+
+#orange{ 
+    width:100%; 
+    height:40px; 
+    
+    
+    background-color:orangered;
+     
+}
+
+#gris{ 
+    width:100%; 
+    height:40px; 
+    
+    
+    background-color:grey;
+     
+}
+#jcf{
+    display: flex;
+}
+
+#jaune{ 
+    width:100%; 
+    height:40px; 
+    
+    
+    background-color:yellow;
+     
+}
+
+#canard{ 
+    width:100%; 
+    height:40px; 
+    
+    
+    background-color:darkturquoise;
+     
+}
+
+#feu{ 
+    width:100%; 
+    height:40px; 
+    
+    
+    background-color:orange;
+     
+}
+
+#anthra{ 
+    width:100%; 
+    height:120px; 
+   
+    background-color:rgb(53, 48, 48);
+     
+}
+
